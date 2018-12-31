@@ -59,13 +59,13 @@
 			<version>5.0.8.RELEASE</version>
 		</dependency>
 	</dependencies>
-	 <build>
+ <build>
     <plugins>
       <plugin>
       	<finalName>SpringMVCDemo</finalName>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.5.1</version>
+        <version>4.0.0</version>
         <configuration>
           <source>1.8</source>
           <target>1.8</target>
